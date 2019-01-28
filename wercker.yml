@@ -67,3 +67,4 @@ deploy-to-cluster:
       insecure-skip-tls-verify: true
       command: apply -f alpha-office-product-catalog.kubernetes.yml
 
+
